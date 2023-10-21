@@ -5,7 +5,7 @@
 
 ## I. Introduction:
 
-Developing smooth and interactive user experiences across a range of different devices has become essential in the evolving field web development. With that being said, oftentimes, the user's experience can often get lost in the shuffle between managing tasks. Doing so is a serious mistake, especially when mobile devices make up a significant 58.33 percent of all website traffic worldwide (Bianchi, 2023). Reactive web design, which guarantees all online applications smoothly adjust to different devices, is the cornerstone of user-centric development. This tutorial will teach you how to create responsive designs, a mobile-first design strategy, media queries, responsive typography, adaptable images, user-friendly navigation menus, and general tips and tricks.
+Developing smooth and interactive user experiences across a range of different devices has become essential in the evolving field web development. With that being said, oftentimes, the user's experience can often get lost in the shuffle between managing tasks. Doing so is a serious mistake, especially when mobile devices make up a significant 58.33 percent of all website traffic worldwide (Bianchi, 2023). Reactive web design, which guarantees all online applications smoothly adjust to different devices, is the cornerstone of user-centric development. This tutorial will teach you how to create responsive designs through several different theories, methodologies, and techniques. 
 
 ## II. Introduction to Responsive Design:
 
@@ -28,16 +28,14 @@ In CSS, media queries allow you to add dynamic styling to your web application t
 First, in your CSS file, create a simple media query structure. The beginning of a media query is `@media`, which is followed by the condition in parenthesis and the styles enclosed in curly braces. For example:
 
 ```css
-/* Default styles for smaller screens */
+
 body {
-    font-size: 16px;
-    /* other styles... */
+    font-size: 10px;
 }
-/* Media query for screens larger than 768px */
+/* Media query for screens that are larger than 768px */
 @media (min-width: 768px) {
     body {
-        font-size: 18px;
-        /* other styles specific to larger screens... */
+        font-size: 12px;
     }
 }
 ```
@@ -46,14 +44,14 @@ Explaination: In this example, screens larger than 768 pixels have an adjusted, 
 
 2. Adaptable Navigation Bar:
 
-Let's add responsiveness to the navigation bar, as well:
+Let's incorporate the nav bar, as well:
 
 ```html
 <nav>
     <ul>
-        <li>Home</li>
-        <li>About</li>
-        <li>Contact</li>
+        <li>Tutorial</li>
+        <li>Blog</li>
+        <li>Testing</li>
     </ul>
 </nav>
 ```
@@ -61,24 +59,21 @@ Let's add responsiveness to the navigation bar, as well:
 Now style the two media queries that you made in CSS:
 
 ```css
-/* Default styles for navigation items */
 nav ul {
     list-style: none;
     padding: 0;
     display: flex;
     justify-content: space-around;
-    /* other styles... */
 }
-/* Media query for screens larger than 768px */
+/* Media query for screens that are larger than 768px */
 @media (min-width: 768px) {
     nav ul {
         justify-content: flex-start;
-        /* other styles specific to larger screens... */
     }
 }
 ```
 
-Explaination: In this code, we are able to align everything to the left for screens larger than 768px, and centered for screens smaller than 768px. 
+Explaination: Everything is aligned to the left for screens larger than 768px and centered for screens smaller than 768px. 
 
 3. Adaptive Framework Structure:
 
@@ -86,30 +81,27 @@ Assume your sidebar and main content are organized in a grid format with three c
 
 ```html
 <div class="grid-container">
-    <div class="main-content">Main Content</div>
-    <div class="sidebar">Sidebar</div>
+    <div class="main-content">Tutorial Blog</div>
+    <div class="sidebar">Side bar</div>
 </div>
 ```
 
 Media queries can also be used to adjust the grid layout for smaller screens in CSS:
 
 ```css
-/* Grid layout styles */
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    /* other grid styles... */
 }
-/* Media query for screens smaller than 768px */
+/* Media query for screens that are smaller than 768px */
 @media (max-width: 768px) {
     .grid-container {
         grid-template-columns: 1fr;
-        /* styles for single column layout... */
     }
 }
 ```
 
-Explaination: We create a single column for the grid arrangement when the screen size is less than 768px. 
+Explaination: A single column is created for the grid when the screen size is less than 768px. 
 
 You can design complex responsive layouts and make your website mobile-friendly by utilizing media queries, which will guarantee a smooth user experience across a variety of devices. These are just general use cases. Try this out with different resolutions, features, and designs to adjust the layout of your website to different devices. 
 
@@ -125,7 +117,7 @@ The majority of internet traffic is generated by mobile devices, which often hav
 
 **3. Using a Touch-Friendly Interface:**
 
-Web applications need to be touch-responsive by default in this mobile-first world. Touch-friendly designs feature swipable interfaces, tappable elements, and smooth content zooming. By adding these design features to your web application, everything becomes more user-friendly, making it easier for users to interact with.
+Web applications need to be touch-responsive by default in this mobile-first world. Touch-friendly designs feature swipable interfaces, tappable elements, and smooth content zooming. By adding these features to your application, everything becomes more user focused and user-friendly. 
 
 ## V. Adaptive Typography: 
 
@@ -149,10 +141,8 @@ A creative challenge arises in figuring out how to make responsive designs fit o
 
 If you want to learn more about responsive web design, there are a ton of resources available to you:
 
-Certainly! Here are the hyperlinks in Markdown format:
-
 - [**MDN Web Docs:**](https://developer.mozilla.org/en-US/docs/Web) An extensive resource with in-depth instructions on web technologies, including the fundamentals of responsive design.
-- [**CSS-Tricks:**](https://css-tricks.com/) A comprehensive collection of CSS tutorials covering best practices and techniques for responsive design.
+- [**CSS-Tricks:**](https://css-tricks.com/) A collection of CSS tutorials covering the best practices and techniques for responsive design.
 - [**Smashing Magazine:**](https://www.smashingmagazine.com/) A journal with tutorials and articles about user-friendly design, covering both front-end development and user experience.
 - [**Google Web Fundamentals:**](https://developers.google.com/web/fundamentals) An indispensable resource providing standards and best practices for contemporary web development, including techniques for responsive design.
 - [**A List Apart:**](https://alistapart.com/) A well-known journal with articles on responsive design implementation and standards, focusing on web standards and best practices.
@@ -163,7 +153,7 @@ Certainly! Here are the hyperlinks in Markdown format:
 
 In this tutorial on responsive web design, we have covered a wide variety of basic concepts, useful tactics, and methodologies. From the nuances of media queries to the craft of touch-friendly design, we discovered the keys to creating user-friendly apps for a variety of platforms. Through the adoption of the mobile-first approach, we closed the divide between small screens and large-screen displays, ensuring a smooth transition for users navigating our virtual worlds. In this moblie-first world we're living in, responsive design is increasingly important for inclusivity and accessibility. 
 
-As you dive deeper into web development, remember that responsive design is more than just a technicality; it's a method of programming based on empathy. It involves understanding the diverse needs of users and developing solutions that seamlessly work with every device they own. This tutorial covers techniques employed by creative minds, seasoned professionals, and aspiring developers alike. Embrace a mobile-first strategy, use media queries generously, and ensure your fonts and images adjust smoothly to every display. Take this challenge, in addition to all your other tasks, and draw inspiration the abundant resources available. As a leader of this digital revolution, you are shaping the future of the digital world. Make it great. 
+As you dive deeper into web development, understand that it involves understanding the diverse needs of users and developing solutions that seamlessly work with every device they own. This tutorial covers techniques employed by creative minds, seasoned professionals, and aspiring developers alike. Embrace a mobile-first strategy, use media queries generously, and ensure your fonts and images adjust smoothly to every display. Take this challenge, in addition to all your other tasks, and draw inspiration the abundant resources available. As a creator in our digital world, make it great. 
 
 ## Sources Cited: 
 
