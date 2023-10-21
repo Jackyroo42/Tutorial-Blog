@@ -167,3 +167,16 @@ As you dive deeper into web development, remember that responsive design is more
 
 ## Sources Cited: 
 
+1. [Statista - Share of Website Traffic from Mobile Devices](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/#:~:text=Mobile%20accounts%20for%20approximately%20half,permanently%20surpassing%20it%20in%202020.)
+
+2. [UX Planet - The Importance of User Experience Design](https://uxplanet.org/the-importance-of-user-experience-design-988faf6ddca2)
+
+3. [Prayag Gangadharan on Medium](https://prayagv1.medium.com/about)
+
+4. [47Billion - Importance of Consistency in User Interface Design](https://47billion.com/blog/importance-of-consistency-in-user-interface-design/)
+
+5. [Cloudinary - What Are Responsive Images and 6 Useful Techniques](https://cloudinary.com/guides/responsive-images/what-are-responsive-images-and-6-useful-techniques)
+
+6. [Testsigma - Mobile-First Design](https://testsigma.com/blog/mobile-first-design/)
+
+7. [Vincentxia77 on Medium - What is Mobile-First Design: Why It's Important & How to Make It](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
