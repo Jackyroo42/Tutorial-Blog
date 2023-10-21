@@ -139,7 +139,7 @@ A creative challenge arises in figuring out how to make responsive designs fit o
 
 ## IX. Supplemental Materials: 
 
-If you want to learn more about responsive web design, there are a ton of resources available to you:
+If you want to learn more about responsive web design, here are a few more resources:
 
 - [**MDN Web Docs:**](https://developer.mozilla.org/en-US/docs/Web) An extensive resource with in-depth instructions on web technologies, including the fundamentals of responsive design.
 - [**CSS-Tricks:**](https://css-tricks.com/) A collection of CSS tutorials covering the best practices and techniques for responsive design.
