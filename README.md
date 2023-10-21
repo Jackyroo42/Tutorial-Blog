@@ -65,6 +65,7 @@ In this illustration, screens larger than 768 pixels have a larger font size.
 
 Let's add responsiveness to the navigation bar. Suppose you have an unordered list of navigation items in your navigation bar:
 
+```html
 <nav>
     <ul>
         <li>Home</li>
@@ -72,9 +73,10 @@ Let's add responsiveness to the navigation bar. Suppose you have an unordered li
         <li>Contact</li>
     </ul>
 </nav>
+```
 
 Style the navigation items in your CSS to fit smaller screens, and modify the styles to fit larger screens employing media queries:
-
+```css
 /* Default styles for navigation items */
 nav ul {
     list-style: none;
@@ -90,18 +92,24 @@ nav ul {
         /* other styles specific to larger screens... */
     }
 }
+```
+
 The navigation items in this example are aligned to the left for screens wider than 768px and centered for screens smaller than 768px.
 
 3. Adaptive Framework Structure:
 
 Assume your sidebar and main content are organized in a grid format with three columns each. For smaller screens, you want the layout to switch to a single column.
 
+```html
 <div class="grid-container">
     <div class="main-content">Main Content</div>
     <div class="sidebar">Sidebar</div>
 </div>
+```
+
 Use a media query to adjust the grid layout for smaller screens after defining it in your CSS:
 
+```css
 /* Grid layout styles */
 .grid-container {
     display: grid;
@@ -115,6 +123,8 @@ Use a media query to adjust the grid layout for smaller screens after defining i
         /* styles for single column layout... */
     }
 }
+```
+
 When the screen size is less than 768 pixels, the grid arrangement in this example becomes a single column.
 
 You can design complex responsive layouts and make your website mobile-friendly by utilizing media queries, which will guarantee a smooth user experience across a variety of devices. Try this out with various settings and designs to adjust the layout of your website to different screen sizes.
