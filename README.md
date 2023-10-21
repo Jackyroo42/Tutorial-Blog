@@ -103,7 +103,7 @@ Media queries can also be used to adjust the grid layout for smaller screens in 
 
 Explaination: A single column is created for the grid when the screen size is less than 768px. 
 
-You can design complex responsive layouts and make your website mobile-friendly by utilizing media queries, which will guarantee a smooth user experience across a variety of devices. These are just general use cases. Try this out with different resolutions, features, and designs to adjust the layout of your website to different devices. 
+You can design responsive layouts and make your website mobile-friendly by utilizing these types of media queries, which will guarantee a smooth user experience across a variety of devices. That being said, these are just general use cases. Try this out with different resolutions, features, and designs to adjust the layout of your website to different devices. 
 
 ## IV. Responsive Web Design Tips and Tricks
 
