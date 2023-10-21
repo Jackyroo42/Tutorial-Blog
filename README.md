@@ -11,7 +11,7 @@ Developing smooth and interactive user experiences across a range of different d
 
 Responsive web design is a topoic that goes beyond simple layout modifications to improve user experience. Fundamentally, responsive design is the development of web apps that smoothly transition between various platforms. For instance, desktop, mobile, and iOS: which guarantees accessibility throughout the digital world. Making this user focused consistency our top priority enhances the overall user experience. Expert UX designer Prayag Gangadharan sums up user experience: "It attempts to satisfy the user's needs, offering satisfying experiences that encourage user loyalty and define customer journeys conducive to business success."
 
-Great examples of websites to build off from include **[Dribbble](https://dribbble.com/learn)**, **[The FWA](https://thefwa.com/)**, and **[Adobe's Behance](https://www.behance.net/)**. They showcase how innovation, creativity, and interaction can coexist thropugh the use of responsive web design. By utilizing said principles, these platforms build trust and confidence with the user. 
+Great examples of websites to build off from include **[ArtStation](https://www.artstation.com/)**, **[The FWA](https://thefwa.com/)**, and **[Adobe's Behance](https://www.behance.net/)**. They showcase how innovation, creativity, and interaction can coexist thropugh the use of responsive web design. By utilizing said principles, these platforms build trust and confidence with the user. 
 
 ## III. Understanding Responsive Web Design
 
