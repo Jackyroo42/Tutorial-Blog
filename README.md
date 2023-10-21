@@ -165,3 +165,5 @@ In this tutorial on responsive web design, we have covered a wide variety of bas
 
 As you delve deeper into web development, keep in mind that responsive design is more than just a technicality; it's a mindset and a philosophy based on empathy. It involves understanding the diverse needs of users and developing solutions that seamlessly work with every device they own. This tutorial covers techniques employed by creative minds, seasoned professionals, and aspiring developers alike. Embrace a mobile-first strategy, use media queries generously, and ensure your fonts and images adjust smoothly to every display. Take this challenge, in addition to all your other tasks, and draw inspiration the abundant resources available. As a vanguard of this digital revolution, you are shaping the future of digital experiences. Make them great. 
 
+## Sources Cited: 
+
