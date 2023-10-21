@@ -5,28 +5,13 @@
 
 ## I. Introduction
 
-Developing smooth and interesting user experiences across a range of devices has become essential in the quickly changing field of web development. Creating HTML frameworks, honing CSS styles, and incorporating JavaScript interactivity are all tasks that developers frequently find themselves engrossed in. The user's viewpoint, though, can occasionally get lost in the digital shuffle amidst the complexity of coding. It can be a serious mistake to ignore mobile users in this day and age, when mobile devices make up a significant 58.33 percent of all website traffic worldwide (Bianchi, 2023). Reactive web design, which guarantees that online applications smoothly adjust to different devices, emerges as the cornerstone of user-centric development in response to this shift in the digital paradigm. This in-depth manual examines the subtleties of responsive design, exploring using a mobile-first strategy, media queries, important advice and best practices, responsive typography, adaptable images, and creating user-friendly navigation menus.
+Developing smooth and interactive user experiences across a range of different devices has become essential in the evolving field web development. Creating HTML frameworks, honing CSS styles, and incorporating JavaScript interactivity are daunting tasks enough. Oftentimes, the user's experience can often get lost in the shuffle. It can be a serious mistake to ignore mobile users in this day and age, when mobile devices make up a significant 58.33 percent of all website traffic worldwide (Bianchi, 2023). Reactive web design, which guarantees that online applications smoothly adjust to different devices, emerges as the cornerstone of user-centric development in response to this shift in the digital paradigm. This in-depth manual examines the subtleties of responsive design, exploring using a mobile-first strategy, media queries, important advice and best practices, responsive typography, adaptable images, and creating user-friendly navigation menus.
 
 ## II. Understanding Responsive Design
 
 Responsive web design is a comprehensive philosophy that goes beyond simple layout modifications to improve user experience. Fundamentally, responsive design entails developing web apps that smoothly transition between various platforms, such as desktop, mobile, and iOS. This flexibility guarantees accessibility throughout the digital spectrum in addition to visual coherence. Making this user-centric consistency our top priority enhances the overall user experience. Expert UX designer Prayag Gangadharan succinctly sums up user experience: "It attempts to satisfy the user's needs, offering satisfying experiences that encourage user loyalty and define customer journeys conducive to business success."
 
-Websites such as Dribbble, The FWA, and Adobe's Behance demonstrate how innovation, creativity, and interaction can coexist. By utilizing responsive design principles, these platforms build user confidence and trust. Let's now set out to incorporate these ideas into our own applications.
-
-# Tutorial Blog
-**Class:** BYU IT&C 210  
-**Instructor:** Jackson Stephens  
-**Date:** October 20th, 2023
-
-## I. Introduction
-
-Developing smooth and interesting user experiences across a range of devices has become essential in the quickly changing field of web development. Creating HTML frameworks, honing CSS styles, and incorporating JavaScript interactivity are all tasks that developers frequently find themselves engrossed in. The user's viewpoint, though, can occasionally get lost in the digital shuffle amidst the complexity of coding. It can be a serious mistake to ignore mobile users in this day and age, when mobile devices make up a significant 58.33 percent of all website traffic worldwide (Bianchi, 2023). Reactive web design, which guarantees that online applications smoothly adjust to different devices, emerges as the cornerstone of user-centric development in response to this shift in the digital paradigm. This in-depth manual examines the subtleties of responsive design, exploring using a mobile-first strategy, media queries, important advice and best practices, responsive typography, adaptable images, and creating user-friendly navigation menus.
-
-## II. Understanding Responsive Design
-
-Responsive web design is a comprehensive philosophy that goes beyond simple layout modifications to improve user experience. Fundamentally, responsive design entails developing web apps that smoothly transition between various platforms, such as desktop, mobile, and iOS. This flexibility guarantees accessibility throughout the digital spectrum in addition to visual coherence. Making this user-centric consistency our top priority enhances the overall user experience. Expert UX designer Prayag Gangadharan succinctly sums up user experience: "It attempts to satisfy the user's needs, offering satisfying experiences that encourage user loyalty and define customer journeys conducive to business success."
-
-Websites such as Dribbble, The FWA, and Adobe's Behance demonstrate how innovation, creativity, and interaction can coexist. By utilizing responsive design principles, these platforms build user confidence and trust. Let's now set out to incorporate these ideas into our own applications.
+Websites such as Dribbble, The FWA, and Adobe's Behance demonstrate how innovation, creativity, and interaction can coexist. By utilizing responsive design principles, these platforms build user confidence and trust.
 
 ## III. Understanding Responsive Web Design
 
