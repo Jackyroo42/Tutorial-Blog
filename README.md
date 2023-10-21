@@ -155,12 +155,14 @@ A creative challenge arises in figuring out how to make responsive designs fit o
 
 If you want to learn more about responsive web design, there are a ton of resources available to you:
 
-- **MDN Web Docs:** An extensive resource with in-depth instructions on web technologies, including the fundamentals of responsive design.
-- **CSS-Tricks:** A comprehensive collection of CSS tutorials covering best practices and techniques for responsive design.
-- **Smashing Magazine:** A journal with tutorials and articles about user-friendly design, covering both front-end development and user experience.
-- **Google Web Fundamentals:** An indispensable resource providing standards and best practices for contemporary web development, including techniques for responsive design.
-- **A List Apart:** A well-known journal with articles on responsive design implementation and standards, focusing on web standards and best practices.
-- **W3Schools:** A dynamic educational resource with lessons covering HTML, CSS, and JavaScript that include examples and concepts of responsive design.
+Certainly! Here are the hyperlinks in Markdown format:
+
+- [**MDN Web Docs:**](https://developer.mozilla.org/en-US/docs/Web) An extensive resource with in-depth instructions on web technologies, including the fundamentals of responsive design.
+- [**CSS-Tricks:**](https://css-tricks.com/) A comprehensive collection of CSS tutorials covering best practices and techniques for responsive design.
+- [**Smashing Magazine:**](https://www.smashingmagazine.com/) A journal with tutorials and articles about user-friendly design, covering both front-end development and user experience.
+- [**Google Web Fundamentals:**](https://developers.google.com/web/fundamentals) An indispensable resource providing standards and best practices for contemporary web development, including techniques for responsive design.
+- [**A List Apart:**](https://alistapart.com/) A well-known journal with articles on responsive design implementation and standards, focusing on web standards and best practices.
+- [**W3Schools:**](https://www.w3schools.com/) A dynamic educational resource with lessons covering HTML, CSS, and JavaScript that include examples and concepts of responsive design.
 
 
 ## X. Final Thoughts: Developing User-Centric Design's Future
